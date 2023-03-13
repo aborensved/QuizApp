@@ -6,7 +6,7 @@ const emit = defineEmits(['selectOption']);
 const { question } = defineProps(['question']);
 
 const emitSelectedOption = (isCorrect) => {
-  emit("selectOption", isCorrect)
+  emit("selectOption", isCorrect);
 }
 </script>
 
@@ -45,6 +45,11 @@ const emitSelectedOption = (isCorrect) => {
   display: flex;
   margin-bottom: 20px;
   cursor: pointer;
+  box-shadow: #422800 4px 4px 0 0;
+  width: 50%;
+}
+.option:hover{
+  opacity: .5;
 }
 
 .option-label {

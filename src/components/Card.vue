@@ -27,7 +27,7 @@
     width: 310px;
     overflow: hidden;
     border-radius: 2%;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.8);
     margin-bottom: 35px;
     margin-right: 20px;
     cursor: pointer;

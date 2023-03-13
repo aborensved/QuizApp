@@ -61,7 +61,7 @@
             "label": "D",
             "text": "144",
             "isCorrect": false
-          }
+          }      
         ]
       },
       {
@@ -72,6 +72,36 @@
             "id": 1,
             "label": "A",
             "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "5 + 5",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "10",
             "isCorrect": true
           },
           {
