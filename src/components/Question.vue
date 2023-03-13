@@ -45,7 +45,7 @@ const emitSelectedOption = (isCorrect) => {
   display: flex;
   margin-bottom: 20px;
   cursor: pointer;
-  box-shadow: #422800 4px 4px 0 0;
+  box-shadow: #422800 4px 4px 4px 0;
   width: 50%;
 }
 .option:hover{
